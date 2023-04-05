@@ -211,10 +211,8 @@ p {
    margin-left: 10%;
     background-color: rgba(0, 0, 0, 0.438);
     border-radius: 60%;
-}
-i {
+} 
 
-}
 @media screen and (max-width:412px) {
     .one {
         background-color: rgb(228, 132, 7);
