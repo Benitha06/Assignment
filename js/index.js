@@ -35,7 +35,7 @@ function hed(){
     let four = document.getElementsByTagName("h4");
     four[0].innerHTML= "Actionable Insights";
     four[1].innerHTML= "Data-Driven Decision"; 
-    four[2].innerHTML= "Actionable Insights";
+    four[2].innerHTML= "Always Affordable";
 }
 function word(){
     let words = document.getElementsByTagName("p");

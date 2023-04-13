@@ -469,13 +469,13 @@ p {
 }
 #footer{
     margin-top: 50px;
-    margin-left: 700px;
+    margin-left: 701px;
 }
 
 
 #list {
    
-    padding-top: 410px;
+    padding-top: 409px;
     padding-right: 100px;
     padding-left: 200px;
     font-family: roboto;
@@ -488,7 +488,7 @@ p {
     margin-top: 10px;
 }
 #list h4 {
-    padding-top: 20px;
+    padding-top: 19px;
     color: rgb(3, 3, 58) ;
     /* font-size: x-large; */
 
@@ -497,6 +497,6 @@ p {
     padding-top: 10%;
  }  
  #dark img {
-    margin-top: -30px;
+    margin-top: -31px;
      margin-left: 570px;
  }
