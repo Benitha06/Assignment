@@ -73,3 +73,10 @@ function n() {
     this.setAttribute("src", "./images/smiling man.jpg");
     
     }
+    function lea(){
+        document.getElementById("apply").style.textDecoration="2px underline greenyellow";
+    }
+
+// function out(){
+//     document.getElementById("lists").style.display="none";
+// }
